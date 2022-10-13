@@ -18,19 +18,19 @@ The process includes the data cleaning and transformation, reducing dimensions b
 
 ​		The data is shown below:
 
-![image-20221012202144930](Resources\image-20221012202144930.png)
+![image-20221012202144930](Resources/image-20221012202144930.png)
 
 
 
 ​		We only choose the data with active trading, non-null value, and workable algorithms.  The data is cleaned and shown below:
 
-![image-20221012202611501](Resources\image-20221012202611501.png)
+![image-20221012202611501](Resources/image-20221012202611501.png)
 
 
 
 After scaling and encoding, the data is shown as:
 
-![image-20221012202759577](Resources\image-20221012202759577.png)
+![image-20221012202759577](Resources/image-20221012202759577.png)
 
 
 
@@ -38,7 +38,7 @@ After scaling and encoding, the data is shown as:
 
 ​		Data after the 3-component PCA dimension reduction:
 
-![image-20221012202915894](Resources\image-20221012202915894.png)
+![image-20221012202915894](Resources/image-20221012202915894.png)
 
 
 
@@ -46,11 +46,11 @@ After scaling and encoding, the data is shown as:
 
 ​		Elbow curve of K-means inertia:
 
-![image-20221012203223523](Resources\image-20221012203223523.png)
+![image-20221012203223523](Resources/image-20221012203223523.png)
 
 ​		Data after K-means clustering:
 
-![image-20221012203320811](Resources\image-20221012203320811.png)
+![image-20221012203320811](Resources/image-20221012203320811.png)
 
 
 
@@ -60,27 +60,27 @@ After scaling and encoding, the data is shown as:
 
 ​		3D Visualization of 3-components of PCA:
 
-![image-20221012203430972](Resources\image-20221012203430972.png)
+![image-20221012203430972](Resources/image-20221012203430972.png)
 
 ​		Classification results table:
 
-![image-20221012203604110](Resources\image-20221012203604110.png)
+![image-20221012203604110](Resources/image-20221012203604110.png)
 
 
 
 ​		Total number of tradable cryptocurrencies:
 
-![image-20221012203746538](Resources\image-20221012203746538.png)
+![image-20221012203746538](Resources/image-20221012203746538.png)
 
 
 
 ​		Scaled TotalCoinSupply and TotalCoinsMined with CoinName and Class:
 
-​		![image-20221012203845020](Resources\image-20221012203845020.png)
+​		![image-20221012203845020](Resources/image-20221012203845020.png)
 
 
 
 ​		Scatter plot of above data:
 
-![image-20221012203956798](Resources\image-20221012203956798.png)
+![image-20221012203956798](Resources/image-20221012203956798.png)
 
